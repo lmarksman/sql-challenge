@@ -1,3 +1,4 @@
 
 # Other files and folders
-.csv
+data/
+config.py
